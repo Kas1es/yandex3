@@ -5,5 +5,6 @@ package testgroup;
 public class Main {
     public static void main(String[] args) {
         String first;
+        String second;
     }
 }
